@@ -1,5 +1,3 @@
 
 # Entrega-de-trabajo-difinitivo
-HEAD
-Tu versión local del README
-Versión del README que está en GitHub
+Hago entrega del trabajo de finalizacion de practicas, se realizo algo sencillo sin tantas complicaciones ni tanto maquillaje algo basico. 
