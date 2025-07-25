@@ -1,4 +1,4 @@
-# Ignorar archivos sensibles y carpetas innecesarias
 .env
 node_modules/
 dist/
+.vscode/
